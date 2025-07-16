@@ -7,3 +7,5 @@ langchain-ollama
 google-generativeai
 chromadb
 PyPDF2
+fastapi
+uvicorn
